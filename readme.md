@@ -28,7 +28,7 @@ Built using **Python's Tkinter** for the user interface and **ReportLab** for PD
    git clone https://github.com/Joshijigyasu7/billify
 2. **Navigate into the project directory**
    ```bash
-   cd biling
+   cd billify
 3. **Install The Required Package**
    ```bash
    pip install reportlab Tkinter
